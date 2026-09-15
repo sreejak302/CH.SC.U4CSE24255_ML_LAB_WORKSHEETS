@@ -10,11 +10,11 @@
 
 ## LAB EXPERIMENTS
 
-**1. Linear Regression**
-**2. Logistic Regression**
-**3. Decision Tree Classifier**
-**4. Support Vector Machine (SVM)**
-**5. K-Nearest Neighbours (KNN)**
-**6. K-Means Clustering**
-**7. Principal Component Analysis (PCA)**
-**8. Random Forest**
+**1.LINEAR REGRESSION**
+**2.LOGISTIC REGRESSION**
+**3.DECISION TREE CLASSIFIER**
+**4.SUPPORT VECTOR MACHINE(SVM)**
+**5.K-NEAREST NEIGHBOURS(KNN)**
+**6.K-MEANS CLUSTERING**
+**7.PRINCIPAL COMPONENT ANALYSIS(PCA)**
+**8.RANDOM FOREST**
